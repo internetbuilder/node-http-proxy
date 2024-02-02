@@ -1,4 +1,4 @@
-<p align="center">
+#<p align="center">
   <img src="https://raw.github.com/http-party/node-http-proxy/master/doc/logo.png"/>
 </p>
 
